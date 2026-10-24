@@ -208,7 +208,7 @@ const quizData = [
             "Vẻ vang",
             "Thắng lợi"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 22: “[…] có vững thì cây mới bền. Xây lầu thắng lợi trên nền […]”",
@@ -508,7 +508,7 @@ const quizData = [
             "Độc lập và tự do",
             "Tự do và hạnh phúc"
         ],
-        "answer": 2
+        "answer": 0
     },
     {
         "q": "Câu 52: Nội dung nào thể hiện sự khác biệt trong quan điểm về độc lập dân tộc của Hồ Chí Minh và nhà cách mạng Tôn Trung Sơn?",
@@ -516,19 +516,19 @@ const quizData = [
             "Độc lập cho các dân tộc",
             "Độc lập dân tộc thuộc địa, độc lập dân tộc gắn liền với chủ nghĩa xã hội",
             "Độc lập cho nhân dân lao động, quá trình cách mạng đó phải dưới sự lãnh đạo của giai cấp công nhân mà đội tiên phong của nó là Đảng Cộng sản Việt Nam",
-            "N/A"
+            "Độc lập dân tộc gắn liền với chủ nghĩa xã hội, quá trình cách mạng đó phải dưới sự lãnh đạo của giai cấp công nhân mà đội tiên phong của nó là Đảng Cộng sản Việt Nam"
         ],
         "answer": 3
     },
     {
         "q": "Câu 53: Hoàn chỉnh câu sau: “Chỉ có chủ nghĩa cộng sản mới cứu [...] đem lại cho mọi người không phân biệt chủng tộc và nguồn gốc sự tự do, bình đẳng, bác ái, đoàn kết, ấm no trên quả đất, việc làm cho mọi người và vì mọi người, niềm vui, hòa bình, hạnh phúc”",
         "options": [
-            "Loài người\tB.  Nhân dân\tC.  Nhân loại \tD.  Con người",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Loài người",
+            "Nhân dân",
+            "Nhân loại",
+            "Con người"
         ],
-        "answer": 0
+        "answer": 2
     },
     {
         "q": "Câu 54: Trong nội dung xây dựng kinh tế thời kỳ quá độ lên chủ nghĩa xã hội, Hồ Chí Minh đã chủ trương xây dựng những cơ cấu nào?",
@@ -543,10 +543,10 @@ const quizData = [
     {
         "q": "Câu 55: Tổ chức Quốc tế cộng sản được thành lập vào thời gian nào?",
         "options": [
-            "Tháng 4/1917\tB.  Tháng 2/1920\tC.  Tháng 3/1919 \tD.  Tháng 5/1918",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Tháng 4/1917",
+            "Tháng 2/1920",
+            "Tháng 3/1919",
+            "Tháng 5/1918"
         ],
         "answer": 2
     },
@@ -568,7 +568,7 @@ const quizData = [
             "Độc lập - dân chủ - độc lập",
             "Độc lập - hạnh phúc - độc lập"
         ],
-        "answer": 1
+        "answer": 3
     },
     {
         "q": "Câu 58: Hoàn chỉnh câu sau: “Bộ phận nào mà ra mặt phản cách mạng […] thì phải đánh đổ”. (Trong tác phẩm “Sách lược vắn tắt của Đảng”).",
@@ -578,7 +578,7 @@ const quizData = [
             "Việt Nam Quốc dân đảng",
             "Tân Việt Cách mạng đảng"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "q": "Câu 59: Hoàn chỉnh câu sau: “Động lực văn hóa, khoa học, giáo dục là động lực [...] không thể thiếu của chủ nghĩa xã hội”.",
@@ -588,7 +588,7 @@ const quizData = [
             "Vật chất và tinh thần",
             "Vật chất"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "q": "Câu 60: Hồ Chí Minh lựa chọn con đường cách mạng vô sản dựa trên cơ sở nào?",
@@ -636,9 +636,9 @@ const quizData = [
             "Chủ nghĩa xã hội là tư bản, địa chủ không còn nữa, xã hội cộng sản là khoa học ngày càng phát triển",
             "Chủ nghĩa xã hội là tư liệu sản xuất tập trung tỏng hợp tác xã, xã hội cộng sản thì tư liệu sản xuất là của chung",
             "Chủ nghĩa xã hội không còn vết tích của xã hội cũ, xã hội cộng sản là làm theo năng lực, hưởng theo nhu cầu",
-            "N/A"
+            "Chủ nghĩa xã hội vẫn còn chút ít vết tích của xã hội cũ, xã hội cộng sản thì hoàn toàn không còn vết tích của xã hội cũ"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 65: Đại hội nào của Đảng xác định khá toàn diện, có hệ thống những vấn đề cốt yếu thuộc nội hàm niệm tư tưởng Hồ Chí Minh?",
@@ -653,20 +653,20 @@ const quizData = [
     {
         "q": "Câu 66: Hoàn chỉnh câu sau: “Khi tôi độ [...] lần đầu tiên tôi được nghe ba chữ Pháp: Tự do, Bình đẳng, Bác ái. Đối với chúng tôi, người da trắng nào cũng là người Pháp. Người Pháp đã nói thế. Và từ thuở ấy, tôi rất muốn làm quen với nền văn minh Pháp, muốn tim xem những gì ẩn đằng sau những chữ ấy”",
         "options": [
-            "Mười lăm tuổi\tC.  Mười bốn tuổi\tD.  Mười sáu tuổi",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Mười lăm tuổi",
+            "Mười ba tuổi",
+            "Mười bốn tuổi",
+            "Mười sáu tuổi"
         ],
         "answer": 1
     },
     {
         "q": "Câu 67: Sau thời gian hoạt động ở Pháp, tháng 6/1923 Nguyễn Ái Quốc bắt đầu hoạt động ở đâu?",
         "options": [
-            "Mỹ\tB.  Đức\t C.  Liên Xô\tD.  Anh",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Mỹ",
+            "Đức",
+            "Liên Xô",
+            "Anh"
         ],
         "answer": 2
     },
@@ -728,15 +728,15 @@ const quizData = [
             "Cánh tay của một con người",
             "Cái cánh của cách mạng vô sản"
         ],
-        "answer": 1
+        "answer": 3
     },
     {
         "q": "Câu 74: Điền từ hoặc cụm từ đúng vào dấu [...]: Nhà nước pháp quyền nhân nghĩa là nhà nước tôn trọng, bảo đảm thực hiện đầy đủ các quyền […]",
         "options": [
-            "Dân tộc\tB.  Giai cấp\tC.  Dân chủ\tD.  Con người",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Dân tộc",
+            "Giai cấp",
+            "Dân chủ",
+            "Con người"
         ],
         "answer": 3
     },
@@ -756,9 +756,9 @@ const quizData = [
             "Xây dựng một Nhà nước hiện đại",
             "Nền nông nghiệp hiện đại",
             "Khoa học kỹ thuật tiên tiến",
-            "Theo Hồ Chí Minh, nền kinh tế mà chúng ta xây dựng là nền kinh tế xã hội chủ nghĩa với công nghiệp và nông nghiệp hiện đại, khoa học kỹ thuật tiên tiến, là “một nền kinh tế thuần nhất, dựa trên chế độ sở hữu toàn dân và sở hữu tập thể”"
+            "Nền công nghiệp hiện đại"
         ],
-        "answer": 1
+        "answer": 0
     },
     {
         "q": "Câu 77: Hội nghị lần thứ nhất Ban Chấp hành Trung ương lâm thời của Đảng (từ ngày 14 đến 31-10-1930), tại Hương Cảng đã chỉ trích và phê phán đường lối của Nguyễn Ái Quốc đưa ra trong Chính cương vắn tắt, Sách lược vắn tắt như thế nào?",
@@ -778,7 +778,7 @@ const quizData = [
             "Tâm lý, luân lý, xã hội, chính trị và kinh tế",
             "Tâm lý, văn hóa, xã hội, luân lý và kinh tế"
         ],
-        "answer": 0
+        "answer": 2
     },
     {
         "q": "Câu 79: Điền từ hoặc cụm từ đúng vào dấu [...]: “Làm cho các dân tộc thuộc địa, từ trước tới nay vẫn [...], hiểu biết nhau hơn và đoàn kết lại để đặt cơ sở cho một Liên minh phương Đông tương lai, khối [...] này sẽ là một trong những cái cánh của cách mạng vô sản”.",
@@ -806,9 +806,9 @@ const quizData = [
             "Chủ nghĩa xã hội là tư liệu sản xuất tập trung trong hợp tác xã, xã hội cộng sản thì tư liệu sản xuất là của chung",
             "Chủ nghĩa xã hội là tư bản, địa chủ không còn nữa, xã hội cộng sản là khoa học ngày càng phát triển",
             "Chủ nghĩa xã hội vẫn còn chút ít vết tích của xã hội cũ, xã hội cộng sản thì hoàn toàn không còn vết tích của xã hội cũ",
-            "N/A"
+            "Chủ nghĩa xã hội không còn vết tích của xã hội cũ, xã hội cộng sản là làm theo năng lực, hưởng theo nhu cầu"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 82: Để tăng cường tính nghiêm minh của pháp luật đi đôi với đẩy mạnh giáo dục đạo đức, Hồ Chí Minh đã kết hợp nhuần nhuyễn giữa:",
@@ -828,7 +828,7 @@ const quizData = [
             "Bổn phận",
             "Trách nhiệm"
         ],
-        "answer": 1
+        "answer": 0
     },
     {
         "q": "Câu 84: Quan điểm của Hồ Chí Minh đối với người làm nghề thủ công và lao động riêng lẻ khác trong phát triển kinh tế nhiều thành phần là:",
@@ -836,7 +836,7 @@ const quizData = [
             "Nhà nước cần đặc biệt khuyến khích họ đi vào con đường hợp tác",
             "Không xóa bỏ quyền sở hữu về tư liệu sản xuất và của cải khác của họ, hướng dẫn họ hoạt động làm lợi cho quốc kế dân sinh, phù hợp với kinh tế nhà nước, khuyến khích và giúp đỡ họ cải tạo theo chủ nghĩa xã hội bằng hình thức tư bản nhà nước",
             "Cần ưu tiên để tạo nền tảng vật chất cho chủ nghĩa xã hội",
-            "N/A"
+            "Nhà nước bảo hộ quyền sở hữu về tư liệu sản xuất, ra sức hướng dẫn và giúp họ cải tiến cách làm ăn, khuyến khích họ đi vào con đường hợp tác"
         ],
         "answer": 3
     },
@@ -858,7 +858,7 @@ const quizData = [
             "Chủ nghĩa cộng sản",
             "Chế độ cộng sản"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "q": "Câu 87: Theo Hồ Chí Minh, nhiệm vụ quan trọng nhất của thời kỳ quá độ lên chủ nghĩa xã hội là: Cải tạo xã hội cũ, xây dựng xã hội mới",
@@ -866,9 +866,9 @@ const quizData = [
             "Xây dựng tiền đề về kinh tế, chính trị, văn hóa, tư tưởng cho chủ nghĩa xã hội",
             "Xây dựng nền tảng vật chất và kỹ thuật của chủ nghĩa xã hội",
             "Tất cả phương án",
-            "Nhiệm vụ quan trọng nhất của thời kỳ quá độ là phải xây dựng nền tảng vật chất và kỹ thuật của chủ nghĩa xã hội; xây dựng tiền đề về kinh tế, chính trị, văn hóa, tư tưởng cho chủ nghĩa xã hội; cải tạo xã hội cũ, xây dựng xã hội mới"
+            "Cải tạo xã hội cũ, xây dựng xã hội mới"
         ],
-        "answer": 3
+        "answer": 2
     },
     {
         "q": "Câu 88: Quan điểm “chỉ có thể thực hiện hoàn toàn công cuộc giải phóng các nước thuộc địa khi giai cấp vô sản giành được thắng lợi ở các nước tư bản tiên tiến” được nêu trong Những luận cương về phong trào trong các nước thuộc địa và nửa thuộc địa tại Đại hội VI Quốc tế cộng sản, năm 1928, đã đánh giá như thế nào về vai trò của cách mạng thuộc địa?",
@@ -906,9 +906,9 @@ const quizData = [
             "Bản chất cách mạng, khoa học, cơ sở hình thành quan điểm của Hồ Chí Minh",
             "Hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam",
             "Nội dung cơ bản thuộc nội hàm khái niệm tư tưởng Hồ Chí Minh",
-            "N/A"
+            "Bản chất cách mạng, khoa học, cơ sở hình thành, nội dung cơ bản và giá trị, ý nghĩa trường tồn của tư tưởng Hồ Chí Minh"
         ],
-        "answer": 1
+        "answer": 3
     },
     {
         "q": "Câu 92: Hồ Chí Minh khẳng định như thế nào về con đường cách mạng Việt Nam?",
@@ -916,7 +916,7 @@ const quizData = [
             "Hoàn thành cách mạng dân tộc, dân chủ nhân dân, tiến nhanh lên chủ nghĩa xã hội.",
             "Tiến hành giải phóng dân tộc và đi lên chủ nghĩa tư bản.",
             "Tiến hành giải phóng dân tộc, hoàn thành cách mạng dân tộc dân chủ nhân dân tiến nhanh lên chủ nghĩa tư bản.",
-            "N/A"
+            "Tiến hành giải phóng dân tộc, hoàn thành cách mạng dân tộc dân chủ nhân dân tiến dần lên chủ nghĩa xã hội"
         ],
         "answer": 3
     },
@@ -926,9 +926,9 @@ const quizData = [
             "Tính khoa học là phải truyền bá tư tưởng triết học mácxit, đấu tranh chống lại chủ nghĩa duy tâm, thần bí, mê tín dị đoan, phải biết gạn đục, khơi trong",
             "Tính khoa học là tính tiên tiến nhưng chưa cần thuận với trào lưu tiến hóa của thời đại.",
             "Tính khoa học là phải đấu tranh chống lại những gì trái với khoa học, phản tiến bộ.",
-            "Tính khoa học của nền văn hóa mới thể hiện ở tính hiện đại, tiên tiến, thuận với trào lưu tiến hóa của thời đại. Tính khoa học của văn hóa đòi hỏi phải đấu tranh chống lại những gì trái với khoa học, phản tiến bộ, phải truyền bá tư tưởng triết học mácxit, đấu tranh chống lại chủ nghĩa duy tâm, thần bí, mê tín dị đoan, phải biết gạn đục, khơi trong, kế thừa truyền thống tốt đẹp của dân tộc và tiếp thu tinh hoa văn hóa nhân loại."
+            "Tính khoa học biểu hiện kế thừa truyền thống tốt đẹp của dân tộc và tiếp thu tinh hoa văn hóa nhân loại."
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "q": "Câu 94: Điền từ hoặc cụm từ đúng vào dấu […]: trong đoàn kết với các dân tộc, Hồ Chí Minh nhấn mạnh: “Đồng bào tất cả các dân tộc, không phân biệt… thương yêu giúp đỡ lẫn nhau phải […] như anh em một nhà, để cùng nhau xây dựng tổ quốc chung”.",
@@ -938,7 +938,7 @@ const quizData = [
             "Đoàn kết chân thành.",
             "Đoàn kết hợp tác."
         ],
-        "answer": 2
+        "answer": 0
     },
     {
         "q": "Câu 95: Trong mấy điểm lớn trong Chính sách cán bộ, (Phần Vấn đề cán bộ, tác phẩm Sửa đổi lối làm việc), theo Hồ Chí Minh cần phải chú ý những gì?",
@@ -966,9 +966,9 @@ const quizData = [
             "Thêm bớt khuyết điểm của nhau.",
             "Giấu giếm khuyết điểm cho nhau.",
             "Nịnh người trên, xem khinh người dưới.",
-            "N/A"
+            "Cốt để giúp nhau sửa chữa, giúp nhau tiến bộ. Cốt để đổi cách làm việc cho tốt hơn, đúng hơn. Cốt để đoàn kết và thống nhất nội bộ."
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 98: Đâu là nhân tố thể hiện sự sáng tạo của Hồ Chí Minh trong quy luật ra đời của Đảng Cộng sản Việt Nam.",
@@ -998,7 +998,7 @@ const quizData = [
             "Một hai người.",
             "Một nhóm người."
         ],
-        "answer": 0
+        "answer": 2
     },
     {
         "q": "Câu 101: Trong Sách lược vắn tắt, Hồ Chí Minh xác định: Đảng cần phải liên lạc với bộ phận giai cấp nào trong xã hội?",
@@ -1016,7 +1016,7 @@ const quizData = [
             "Độc lập, tự do của các dân tộc bị áp bức.",
             "Tự do, ấm no của các dân tộc.",
             "Hòa bình và công lý.",
-            "N/A"
+            "Độc lập dân tộc, dân chủ, hòa bình, hợp tác và phát triển trên thế giới."
         ],
         "answer": 3
     },
@@ -1038,7 +1038,7 @@ const quizData = [
             "Vô cùng mạnh mẽ.",
             "Vô cùng to lớn."
         ],
-        "answer": 3
+        "answer": 1
     },
     {
         "q": "Câu 105: Câu “Chủ trương làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản” được trích từ văn kiện nào của Hồ Chí Minh?",
@@ -1056,9 +1056,9 @@ const quizData = [
             "Từ một nước công nghiệp tiến thẳng lên chủ nghĩa xã hội không phải kinh qua giai đoạn phát triển tư bản chủ nghĩa.",
             "Từ một nước nông nghiệp trung bình tiến thẳng lên chủ nghĩa xã hội không phải kinh qua giai đoạn phát triển tư bản chủ nghĩa.",
             "Từ một nước nông nghiệp phát triển tiến thẳng lên chủ nghĩa xã hội không phải kinh qua giai đoạn phát triển tư bản chủ nghĩa.",
-            "N/A"
+            "Từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội không phải kinh qua giai đoạn phát triển tư bản chủ nghĩa."
         ],
-        "answer": 2
+        "answer": 3
     },
     {
         "q": "Câu 107: Theo Hồ Chí Minh, “Là người đầy tớ của dân”, có nghĩa là phải?",
@@ -1076,17 +1076,17 @@ const quizData = [
             "Không bỏ qua giai đoạn phát triển tư bản chủ nghĩa.",
             "Kinh qua giai đoạn phát triển tư bản chủ nghĩa.",
             "Có sự giúp sức cùa nhiều nước trên thế giới.",
-            "N/A"
+            "Không phải kinh qua giai đoạn phát triển tư bản chủ nghĩa."
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 109: Điền từ hoặc cụm từ đúng vào dấu […]: “Đạo đức cách mạng không phải trên trời sa xuống. Nó do đấu tranh, rèn luyện bền bỉ hàng ngày mà phát triển củng cố. Cũng như […] càng mài càng sáng, […] càng luyện càng trong”.",
         "options": [
-            "Đá – vàng.\tB.  Vàng – đá.",
-            "Vàng – ngọc.\tD.  Ngọc – vàng.",
-            "N/A",
-            "N/A"
+            "Đá – vàng.",
+            "Vàng – ngọc.",
+            "Vàng – đá.",
+            "Ngọc – vàng."
         ],
         "answer": 3
     },
@@ -1106,9 +1106,9 @@ const quizData = [
             "Phong trào công nhân.",
             "Tất cả phương án.",
             "Chủ nghĩa Mác – Lênin.",
-            "N/A"
+            "Phong trào yêu nước"
         ],
-        "answer": 2
+        "answer": 3
     },
     {
         "q": "Câu 112: Trong các nguyên tắc xây dựng Đảng, nguyên tắc nào là cơ bản trong xây dựng, tổ chức, hoạt động của Đảng, theo Hồ Chí Minh?",
@@ -1136,9 +1136,9 @@ const quizData = [
             "Hy sinh lợi ích các nhân vì tập thể.",
             "Xóa bỏ lợi ích cá nhân.",
             "Lấy lợi ích cá nhân phục vụ lợi ích tập thể.",
-            "N/A"
+            "Giày xéo lên lợi ích cá nhân"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 115: Theo Hồ Chí Minh trong các biện pháp xây dựng chủ nghĩa xã hội, biện pháp nào được xác định là cơ bản, quyết định, lâu dài?",
