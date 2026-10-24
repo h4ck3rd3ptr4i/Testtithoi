@@ -1158,7 +1158,7 @@ const quizData = [
             "Quần chúng.",
             "Giai cấp công nhân và nông dân."
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "q": "Câu 117: Theo Hồ Chí Minh mục đích của tiếp thu tinh hoa văn hóa nhân loại là để:",
@@ -1193,10 +1193,10 @@ const quizData = [
     {
         "q": "Câu 120: Nguyễn Ái Quốc đến Liên Xô lần đầu năm nào?",
         "options": [
-            "1925.\tB.  1923.\tC.  1924.\tD.  1921.",
-            "N/A",
-            "N/A",
-            "N/A"
+            "1925.",
+            "1923",
+            "1924",
+            "1921"
         ],
         "answer": 1
     },
@@ -1208,15 +1208,15 @@ const quizData = [
             "Đạo đức cách mạng - cần kiệm liêm chính.",
             "Sức có mạnh - tinh thần cách mạng."
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "q": "Câu 122: “Nhân dân có quyền lợi làm chủ, thì phải có nghĩa vụ làm tròn bổn phận công dân, giữ đúng […] công dân”.",
         "options": [
-            "Đạo đức.\tB.  Tư cách.\tC.  Bổn phận.\tD. Trách nhiệm.",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Đạo đức.",
+            "Tư cách.",
+            "Bổn phận.",
+            "Trách nhiệm."
         ],
         "answer": 0
     },
@@ -1226,9 +1226,9 @@ const quizData = [
             "Nền tảng, nhất định.",
             "Nền tảng, chắc chắn.",
             "Sức mạnh, chắc chắn.",
-            "N/A"
+            "Sức mạnh, nhất định."
         ],
-        "answer": 1
+        "answer": 3
     },
     {
         "q": "Câu 124: Trong Bài nói tại buổi khai mạc Đại hội thống nhất Việt Minh – Liên Việt, Hồ Chí Minh khẳng định, khối đại đoàn kết của toàn dân sẽ phát triển thành đại đoàn kết giữa dân ta với những lực lượng nào trên thế giới? (Tác phẩm: Bài nói tại buổi khai mạc Đại hội thống nhất Việt Minh – Liên Việt).",
@@ -1238,7 +1238,7 @@ const quizData = [
             "Nhân dân Á – Phi – Mỹ Latinh.",
             "Phong trào cộng sản và công nhân quốc tế, phong trào giải phóng dân tộc và các lực lượng yêu chuộng hòa bình, công lý trên thế giới."
         ],
-        "answer": 3
+        "answer": 1
     },
     {
         "q": "Câu 125: Hồ Chí Minh nói “Dân khí mạnh thì quân lính nào, súng ống nào cũng không chống lại nổi” là để đánh giá vị trí và vai trò của ai?",
@@ -1256,9 +1256,9 @@ const quizData = [
             "Khuất phục, quyến rũ, chuyển lay.",
             "Chuyển lay, khuất phục, quyến rũ.",
             "Quyến rũ, chuyển lay, quật ngã.",
-            "N/A"
+            "Quyến rũ, chuyển lay, khuất phục."
         ],
-        "answer": 2
+        "answer": 3
     },
     {
         "q": "Câu 127: Chọn phương án sai trong các phương án sau:",
@@ -1266,7 +1266,7 @@ const quizData = [
             "Thời kỳ trước năm 1911: Hình thành tư tưởng yêu nước và chí hướng cứu nước.",
             "Thời kỳ từ năm 1920 – 1930: Hình thành về cơ bản tư tưởng về cách mạng Việt Nam.",
             "Thời kỳ từ năm 1911 – 1920: Tìm thấy con đường cứu nước giải phóng dân tộc.",
-            "N/A"
+            "Thời kỳ từ năm 1930 – 1941: Tư tưởng Hồ Chí Minh tiếp tục hoàn thiện, phát triển và tỏa sáng."
         ],
         "answer": 3
     },
@@ -1286,9 +1286,9 @@ const quizData = [
             "Dân chúng được tự do tổ chức, nam nữ được bình quyền phổ thông giáo dục theo hướng công nông hóa.",
             "Thủ tiêu hết quốc trái, thu hết sản nghiệp lớn của đế quốc Pháp tư bản giao cho chính phủ công nông.",
             "Tư sản dân quyền cách mạng và thổ địa cách mạng dể đi tới xã hội cộng sản.",
-            "N/A"
+            "Đánh đổ đế quốc chủ nghĩa Pháp và bọn phong kiến, làm cho nước Nam được hoàn toàn độc lập, dựng ra Chính phủ công nông binh và tổ chức ra quân đội công nông."
         ],
-        "answer": 1
+        "answer": 3
     },
     {
         "q": "Câu 130: Theo tư tưởng Hồ Chí Minh trên mặt trận văn hóa […].",
@@ -1296,9 +1296,9 @@ const quizData = [
             "Văn nghệ sĩ là những người đi đầu.",
             "Văn nghệ sĩ là những người hăng hái nhất.",
             "Văn nghệ sĩ là động lực của cuộc cách mạng.",
-            "N/A"
+            "Văn nghệ sĩ là chiến sĩ, tác phẩm văn nghệ là vũ khí sắc bén trong đấu tranh cách mạng, trong xây dựng xã hội mới, con người mới."
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 131: Tìm một câu có nội dung không đúng trong các phương án sau : Hồ Chí Minh tính chất khó khăn phức tạp của thời kỳ quá độ lên chủ nghĩa xã hội nước ta:",
@@ -1313,10 +1313,10 @@ const quizData = [
     {
         "q": "Câu 132: Hồ Chí Minh viết tác phẩm Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân, nhân kỷ niệm lần thứ bao nhiêu ngày thành lập Đảng?",
         "options": [
-            "29 năm.\tB.  39 năm.\t\tC.  19 năm.\tD.  49 năm.",
-            "N/A",
-            "N/A",
-            "N/A"
+            "29 năm.",
+            "39 năm.",
+            "19 năm.",
+            "49 năm."
         ],
         "answer": 1
     },
@@ -1356,17 +1356,17 @@ const quizData = [
             "Mặt trận đại đoàn kết dân tộc, Mặt trận đoàn kết Việt – Miên – Lào.",
             "Tất cả phương án.",
             "Mặt trận đại đoàn kết dân tộc, Mặt trận nhân dân tiến bộ thế giới đoàn kết với Việt Nam.",
-            "N/A"
+            "Mặt trận đại đoàn kết dân tộc, Mặt trận đoàn kết Việt – Miên – Lào, Mặt trận nhân dân Á – Phi đoàn kết với Việt Nam, Mặt trận nhân dân tiến bộ thế giới đoàn kết với Việt Nam chống đế quốc xâm lược."
         ],
         "answer": 3
     },
     {
         "q": "Câu 137: Tác phẩm Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân, của Hồ Chí Minh có bút danh gì?",
         "options": [
-            "T.L. \tB.  XYZ.\tC.  Trần Lực.\tD.  Hồ Chí Minh.",
-            "N/A",
-            "N/A",
-            "N/A"
+            "T.L.",
+            "XYZ.",
+            "Trần Lực.",
+            "Hồ Chí Minh."
         ],
         "answer": 0
     },
@@ -1376,9 +1376,9 @@ const quizData = [
             "Chú trọng đưa pháp luật vào trong cuộc sống.",
             "Đảm bảo cho pháp luật được thi hành và có cơ chế giám sát việc thi hành pháp luật.",
             "Nêu cao tính nghiêm minh của pháp luật.",
-            "N/A"
+            "Đề cao tính tự giác của con người."
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 139: “Chỉ có ít nhân vật trong lịch sử trở thành một bộ phận của […] ngay khi còn sống và rõ ràng Hồ Chí Minh là một trong số đó”",
@@ -1398,7 +1398,7 @@ const quizData = [
             "Tất cả phương án.",
             "Quyền lực của nhà nước và xã hội thuộc về nhân dân."
         ],
-        "answer": 2
+        "answer": 0
     },
     {
         "q": "Câu 141: Con đường cách mạng nhà yêu nước của ai được Hồ Chí Minh đánh giá là “Mang nặng phong cách phong kiến” ?",
@@ -1408,15 +1408,15 @@ const quizData = [
             "Phan Bội Châu.",
             "Phan Chu Trinh."
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "q": "Câu 142: Nguyễn Ái Quốc biểu quyết tán thành Quốc tế III – Quốc tế Cộng sản và tham gia thành lập Đảng Cộng sản Pháp vào thời gian nào?",
         "options": [
-            "7/1921.\t B. 12/1920. \tC.  7/1920.\tD.  12/1921.",
-            "N/A",
-            "N/A",
-            "N/A"
+            "7/1921.",
+            "12/1920.",
+            "7/1920.",
+            "12/1921."
         ],
         "answer": 1
     },
@@ -1426,7 +1426,7 @@ const quizData = [
             "Dân tộc chúng ta trở nên một dân tộc anh hùng.",
             "Dân tộc chúng ta trở nên một dân tộc hùng mạnh.",
             "Dân tộc chúng ta trở nên một dân tộc văn minh.",
-            "N/A"
+            "Dân tộc chúng ta trở nên một dân tộc dũng cảm, yêu nước, yêu lao động, một dân tộc xứng đáng với nước Việt Nam độc lập."
         ],
         "answer": 3
     },
@@ -1436,17 +1436,17 @@ const quizData = [
             "Giai cấp công nhân.",
             "Giai cấp công nhân, nông dân và tri thức.",
             "Bản thân Đảng.",
-            "N/A"
+            "Giai cấp công nhân, nhân dân lao động và của cả dân tộc Việt Nam."
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 145: Theo Hồ Chí Minh, phải kiên quyết khắc phục các phản động lực trong con người và tổ chức. Đó là:",
         "options": [
-            "Chủ nghĩa cá nhân. \tB.  Tư tưởng tư sản.",
-            "Phong cách tiểu tư sản.\tD.  Chủ nghĩa vị kỷ.",
-            "N/A",
-            "N/A"
+            "Chủ nghĩa cá nhân.",
+            "Phong cách tiểu tư sản.",
+            "Tư tưởng tư sản.",
+            "Chủ nghĩa vị kỷ."
         ],
         "answer": 0
     },
@@ -1468,7 +1468,7 @@ const quizData = [
             "Là mối quan hệ giữa hệ thống quan điểm của Hồ Chí Minh với cơ sở của nó.",
             "Là mối quan hệ biện chứng."
         ],
-        "answer": 0
+        "answer": 2
     },
     {
         "q": "Câu 148: Để đoàn kết với phong trào cộng sản và công nhân quốc tế, Hồ Chí Minh chủ trương:",
@@ -1476,9 +1476,9 @@ const quizData = [
             "Giương cao ngọn cờ hòa bình và công lý.",
             "Giương cao ngọn cờ độc lập, tự do, trên nền tảng của chủ nghĩa Mác – Lênin.",
             "Thực hiện đoàn kết thống nhất trên nền tảng của chủ nghĩa Mác – Lênin và chủ nghĩa quốc tế vô sản.",
-            "N/A"
+            "Giương cao ngọn cờ độc lập dân tộc gắn liền với chủ nghĩa xã hội, thức hiện đoàn kết thống nhất trên nền tảng của chủ nghĩa Mác – Lênin và chủ nghĩa quốc tế vô sản, có lý, có tinh, giương cao ngọn cờ độc lập, tự do."
         ],
-        "answer": 2
+        "answer": 3
     },
     {
         "q": "Câu 149: Nội dung cốt lõi của tư tưởng Hồ Chí Minh là:",
@@ -1516,9 +1516,9 @@ const quizData = [
             "Tất cả phương án.",
             "Có tinh thần nhiệt thành, cởi mở, độ lượng với con người.",
             "Có tấm lòng vị tha, độ lượng với con người.",
-            "N/A"
+            "Kế thừa truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc có lòng khoan dung, độ lượng với con người, có niềm tin vào nhân dân."
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 153: Trong định nghĩa về tư tưởng Hồ Chí Minh, Đảng đã nêu lên bản chất cách mạng khoa học của tư tưởng Hồ Chí Minh là gì?",
@@ -1526,9 +1526,9 @@ const quizData = [
             "Đó là hệ thống quan điểm toàn diện và sâu sắc về những vấn đề lý luận có tính quy luật của cách mạng Việt Nam.",
             "Độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
             "Tất cả phương án.",
-            "N/A"
+            "Là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam."
         ],
-        "answer": 2
+        "answer": 3
     },
     {
         "q": "Câu 154: Theo Hồ Chí Minh ưu điểm lớn nhất của Thiên chúa giáo là gì?’",
@@ -1566,7 +1566,7 @@ const quizData = [
             "Chủ nghĩa Tam dân của Tôn Trung Sơn.",
             "Những mặt tích cực của Nho giáo.",
             "Tư tưởng vị tha của Phật giáo.",
-            "N/A"
+            "Nền văn hóa dân chủ và cách mạng phương Tây."
         ],
         "answer": 3
     },
@@ -1576,7 +1576,7 @@ const quizData = [
             "Mới mẻ, sáng tạo.",
             "Xứng đáng với tầm vóc dân tộc.",
             "Phối hợp với xu thế phát triển của thời đại.",
-            "N/A"
+            "Xứng đáng với thời đại mới của đất nước và dân tộc."
         ],
         "answer": 3
     },
@@ -1594,11 +1594,11 @@ const quizData = [
         "q": "Câu 160: Những năm 1923 – 1924, tại Liên Xô, Nguyễn Ái Quốc viết nhiều bài cho tờ báo nào của Đảng Cộng sản Liên Xô?",
         "options": [
             "Nhân đạo.",
-            "Người cùng khổ.",
+            "Sự thật.",
             "Thư tín quốc tế.",
-            "N/A"
+            "Người cùng khổ."
         ],
-        "answer": 0
+        "answer": 1
     },
     {
         "q": "Câu 161: “Trong thế giới bây giờ chỉ có […] và thành công đến nơi, nghĩa là dân chúng được hưởng cái hạnh phúc tự do, bình đẳng thật, không phải tự do bình đẳng giả dối như đế quốc chủ nghĩa Pháp khoe khoang bên An Nam”.",
@@ -1608,7 +1608,7 @@ const quizData = [
             "Cách mạng Nga là làm cách mệnh đánh đổ tất cả đế quốc chủ nghĩa và tư bản trong thế giới.",
             "Cách mạng Nga là đã giành thắng lợi."
         ],
-        "answer": 0
+        "answer": 1
     },
     {
         "q": "Câu 162: Tìm phương án đúng nhất với tư tưởng Hồ Chí Minh trong các câu sau đây:",
@@ -1616,9 +1616,9 @@ const quizData = [
             "Thanh niên là người kế thừa cách mạng cho thế hệ thanh niên già, đồng thời là người phụ trách, dìu dắt thế hệ thanh niên tương lai.",
             "Thanh niên là người tiếp nối cách mạng cho thế hệ thanh niên già, đồng thời là người phụ trách, dìu dắt thế hệ thanh niên tương lai.",
             "Thanh niên là người tiếp bước cách mạng cho thế hệ thanh niên già, đồng thời là người phụ trách, dìu dắt thế hệ thanh niên tương lai.",
-            "N/A"
+            "Thanh niên là người tiếp sức cách mạng cho thế hệ thanh niên già, đồng thời là người phụ trách, dìu dắt thế hệ thanh niên tương lai."
         ],
-        "answer": 2
+        "answer": 3
     },
     {
         "q": "Câu 163: Tìm một câu có nội dung không đúng trong các câu sau: Theo Hồ Chí Minh, nguyên tắc xây dựng chủ nghĩa xã hội trong thời kỳ quá độ là:",
@@ -1703,22 +1703,22 @@ const quizData = [
     {
         "q": "Câu 171: Đâu là nhân tố thể hiện sự sáng tạo của Hồ Chí Minh trong quy luật ra đời của Đảng Cộng sản Việt Nam.",
         "options": [
-            "Phong trào công nhân.\tB.  Tất cả phương án.",
-            "Phong trào yêu nước.\t\tD.  Chủ nghĩa Mác Lênin.",
-            "N/A",
-            "N/A"
+            "Phong trào công nhân.",
+            "Phong trào yêu nước.",
+            "Tất cả phương án.",
+            "Chủ nghĩa Mác Lênin."
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "q": "Câu 172: Điền từ hoặc cụm từ đúng vào dấu [...]: “Chúng ta là những người lao động làm chủ nước nhà. Muốn làm chủ được tốt, phải có [...] làm chủ”.",
         "options": [
-            "Tư cách.\tB.  Tác phong.\tC.  Quyết tâm.\tD.  Năng lực.",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Tư cách.",
+            "Năng lực.",
+            "Tác phong.",
+            "Quyết tâm."
         ],
-        "answer": 3
+        "answer": 1
     },
     {
         "q": "Câu 173: Theo Hồ Chí Minh, muốn xây dựng chủ nghĩ xã hội trước hết cần có:",
@@ -1778,7 +1778,7 @@ const quizData = [
             "Các phương thức sử dụng",
             "Mọi phương tiện tồn tại"
         ],
-        "answer": 0
+        "answer": 2
     },
     {
         "q": "Câu 179: Theo Hồ Chí Minh, công nghiệp hóa xã hội chủ nghĩa chỉ có thể thực hiện thắng lợi trên cơ sở nào?",
@@ -1786,9 +1786,9 @@ const quizData = [
             "Xây dựng một hệ thống tiểu thủ công nghiệp, công nghiệp nhẹ đa dạng",
             "Xây dựng một nền công nghiệp hiện đại",
             "Xây dựng và phát triển một nền nông nghiệp toàn diện, vững chắc",
-            "N/A"
+            "Xây dựng và phát triển một nền nông nghiệp toàn diện, vững chắc và xây dựng một hệ thống tiểu thủ công nghiệp, công nghiệp nhẹ đa dạng"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 180: Theo Hồ Chí Minh, bản sắc dân tộc của nền văn hóa Việt Nam là gì",
@@ -1796,9 +1796,9 @@ const quizData = [
             "Những thành quả mà dân tộc Việt Nam tạo ra trong quá trình sinh sống",
             "Những nhân tố tạo nên nét riêng của dân tộc Việt Nam",
             "Những phong tục tập quán của dân tộc Việt Nam",
-            "N/A"
+            "Những giá trị văn hóa bên vững của cộng đồng các dân tộc Việt Nam, là thành quả của quá trình lao động, sản xuất, chiến đấu và giao lưu của con người Việt Nam"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 181: Khi nói về đoàn kết trong tôn giáo Hồ Chí Minh nhấn mạnh cần",
@@ -1806,9 +1806,9 @@ const quizData = [
             "Tất cả phương án",
             "Phải đoàn kết toàn dân, phụng sự tổ quốc",
             "Đoàn kết đồng bào các tôn giáo cùng xây dựng cuộc sống ấm lo, hạnh phúc",
-            "N/A"
+            "Phải đoàn kết chặt chẽ giữa đồng bào lương và đồng bào các tôn giáo, cùng nhau xây dựng đời sống hòa thuận ấm lo, xây dựng Tổ quốc"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 182: Tìm một câu có nội dung không đúng trong các phương án sau: Theo Hồ Chí Minh, nguyên tắc xây dựng chủ nghĩa xã hội là trong thời kỳ quá độ là:",
@@ -1816,7 +1816,7 @@ const quizData = [
             "Phải giữ vững độc lập dân tộc",
             "Phải đoàn kết, học tập kinh nghiệm của các nước",
             "Mọi tư tưởng, hành động phải được thực hiện trên nền tảng chủ nghĩa Mác-Lênin",
-            "N/A"
+            "Kết hợp cải tạo với xây dựng"
         ],
         "answer": 3
     },
@@ -1846,17 +1846,17 @@ const quizData = [
             "Giương cao ngọn cờ hòa bình và công lý",
             "Giương cao ngọn cờ độc lập, tự do, trên nền tảng của chủ nghĩa Mác-Lênin",
             "Thực hiện đoàn kết thống nhất trên nền tảng của chủ nghĩa Mác-Lênin và chủ nghĩa quốc tế vô sản",
-            "N/A"
+            "Giương cao ngọn cờ độc lập dân tộc gắn liền với chủ nghĩa xã hội, thực hiện đoàn kết thống nhất trên nền tảng của chủ nghĩa Mác-Lênin và chủ nghĩa quốc tế vô sản, có lý, có tinh, giương cao ngọn cờ độc lập, tự do"
         ],
-        "answer": 1
+        "answer": 3
     },
     {
         "q": "Câu 186: Hồ Chí Minh khẳng định như thế nào về con đường cách mạng Việt Nam",
         "options": [
             "Hoàn thành cách mạng dân tộc, dân chủ nhân dân, tiến nhanh lên chủ nghĩa xã hội",
-            "Tiến hành giải phóng dân tộc và đi lên chủ nghĩa tư bản",
+            "Tiến hành giải phóng dân tộc, hoàn thành cách mạng dân tộc dân chủ nhân dân tiến dần lên chủ nghĩa xã hội",
             "Tiến hành giải phóng dân tộc, hoàn thành cách mạng dân tộc dân chủ nhân dân tiến nhanh lên chủ nghĩa tư bản",
-            "N/A"
+            "Tiến hành giải phóng dân tộc và đi lên chủ nghĩa tư bản"
         ],
         "answer": 1
     },
@@ -1866,9 +1866,9 @@ const quizData = [
             "Mặt trận là khối đoàn kết thật thà hợp tác và giúp đỡ lẫn nhau cùng tiến bộ, phát triển",
             "Mặt trận là khối đoàn kết lâu dài cần xóa bỏ hết mọi thành kiến, cần phải thật thà hợp tác và giúp đỡ lẫn nhau cùng tiến bộ",
             "Tất cả phương án",
-            "N/A"
+            "Mặt trận là khối đoàn kết lâu dài, chặt chẽ, đoàn kết thực sự, chân thành, thân ái giúp đỡ nhau cùng tiến bộ"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 188: Theo Hồ Chí Minh, “phải chú ý khắc phục tệ độc đoán chuyên quyền, đồng thời phải chống lại cả tinh trạng dựa vào tập thể, không dám quyết đoán, không dám chịu trách nhiệm trong cán bộ Đảng viên”, khi thực hiện nguyên tắc nào sau đây?",
@@ -1896,17 +1896,17 @@ const quizData = [
             "Tuyên truyền, giáo dục, tổ chức, xử lý đồng bộ các mối quan hệ nhằm thực hiện thêm bạn bớt thù",
             "Tất cả các đáp án",
             "Tuyên truyền, giáo dục, vận động quần chúng, giác ngộ xử lý đồng bộ các mối quan hệ nhằm thực hiện thêm bạn bớt thù",
-            "N/A"
+            "Tuyên truyền, giáo dục, vận động quần chúng, tổ chức, xử lý đồng bộ các mối quan hệ nhằm thực hiện thêm bạn bớt thù."
         ],
-        "answer": 1
+        "answer": 3
     },
     {
         "q": "Câu 191: Trước khi trở thành chủ tịch nước, Hồ Chí Minh đã sống, học tập và hoạt động cách mạng ở bao nhiêu nước trên thế giới",
         "options": [
-            "Gần 20 nước",
+            "Gần 30 nước",
             "Gần 40 nước",
             "Không đáp án nào đúng",
-            "N/A"
+            "Gần 20 nước"
         ],
         "answer": 0
     },
@@ -1923,10 +1923,10 @@ const quizData = [
     {
         "q": "Câu 193: Khẳng định Đảng Cộng sản “như người cầm lái” cho con thuyền cách mạng là quan điểm nhất quán của Hồ Chí Minh về vai trò gì của Đảng Cộng sản với cách mạng",
         "options": [
-            "Chỉ đạo\tB.  Tổ chức\tD.  Định hướng",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Chỉ đạo.",
+            "Tổ chức.",
+            "Lãnh đạo.",
+            "Định hướng."
         ],
         "answer": 2
     },
@@ -1946,9 +1946,9 @@ const quizData = [
             "Nhà nước và Đảng Cộng sản và các tổ chức chính trị - xã hội",
             "Đảng Cộng sản và nhà nước",
             "Nhà nước",
-            "N/A"
+            "Đảng Cộng Sản"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 196: Theo Hồ Chí Minh, mọi phương pháp tiếp cận và vận động quần chúng phải như thế nào",
@@ -1966,9 +1966,9 @@ const quizData = [
             "Chủ nghĩa Mác-Lênin với phong trào công nhân",
             "Chủ nghĩa Mác với phong trào công nhân và phong trào yêu nước",
             "Phong trào công nhân với phong trào yêu nước",
-            "N/A"
+            "Chủ nghĩa Mác-Lênin với phong trào công nhân và phong trào yêu nước"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 198: Đối với phong trào cộng sản và công nhân quốc tế Hồ Chí Minh giương cao ngọn cờ",
@@ -1976,17 +1976,17 @@ const quizData = [
             "Độc lập, tự do và quyền bình đẳng giữa các dân tộc",
             "Hòa bình trong công lý",
             "Độc lập dân tộc gắn liền với chủ nghĩa tư bản",
-            "“Giương cao ngọn cờ độc lập dân tộc gắn liền với chủ nghĩa xã hội, thức hiện đoàn kết thống nhất trên nền tảng của chủ nghĩa Mác – Lênin và chủ nghĩa quốc tế vô sản, có lý, có tinh, giương cao ngọn cờ độc lập, tự do.”"
+            "Độc lập dân tộc gắn liền với chủ nghĩa xã hội"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 199: Có bao nhiêu cơ sở lý luận hình thành tư tưởng Hồ Chí Minh",
         "options": [
-            "3 cơ sở\t\tB.  2 cơ sở\tC.  4 cơ sở\tD.  5 cơ sở",
-            "Giá trị tuyền thống tốt đẹp của dân tộc Việt Nam",
-            "Tinh hoa văn hóa nhân loại",
-            "Chủ nghĩa Mác-Lênin"
+            "3 cơ sở",
+            "2 cơ sở",
+            "4 cơ sở",
+            "5 cơ sở"
         ],
         "answer": 0
     },
@@ -1996,9 +1996,9 @@ const quizData = [
             "Tư tưởng cách mạng",
             "Lý tưởng cách mạng",
             "Đạo đức cách mạng",
-            "“Mỗi đảng viên và cán bộ phải thật sự thấm nhuần đạo đức cách mạng, thật sự cần, kiệm, liêm, chính, chí công vô tư. Phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người đầy tớ thật trung thành của nhân dân”"
+            "Con đường cách mạng"
         ],
-        "answer": 3
+        "answer": 2
     },
     {
         "q": "Câu 201: Đâu không phải là điều kiện để xây dựng khối đại đoàn kết toàn dân tộc theo tư tưởng Hồ Chí Minh",
