@@ -1991,7 +1991,7 @@ const quizData = [
         "answer": 0
     },
     {
-        "q": "Câu 200: Theo quan điểm Hồ Chí Minh, mỗi đảng viên và cán bộ phải thật sự thấm nhuần điều gì? Con đường cách mạng",
+        "q": "Câu 200: Theo quan điểm Hồ Chí Minh, mỗi đảng viên và cán bộ phải thật sự thấm nhuần điều gì?",
         "options": [
             "Tư tưởng cách mạng",
             "Lý tưởng cách mạng",
@@ -2016,17 +2016,17 @@ const quizData = [
             "Chủ nghĩa yêu nước, đoàn kết, nhân ái",
             "Giá trị truyền thống tốt đẹp của dân tộc Việt Nam, chủ nghĩa Mác-Lênin",
             "Tinh hoa văn hóa phương Đông và tinh hóa phương Tây",
-            "N/A"
+            "Giá trị truyền thống tốt đẹp của dân tộc Việt Nam, tinh hoa văn hóa nhân loại, chủ nghĩa Mác-Lênin"
         ],
-        "answer": 1
+        "answer": 3
     },
     {
-        "q": "Câu 203: Hồ Chí Minh quan niệm chủ nghĩa xã hội là một chế độ xã hội có nền kinh tế Công, nông, thương nghiệp hiện đại Phát triển gắn với sự phát triển của công, nông nghiệp D.  Hiện đại gắn liền với sự phát triển của công nghiệp",
+        "q": "Câu 203: Hồ Chí Minh quan niệm chủ nghĩa xã hội là một chế độ xã hội có nền kinh tế ",
         "options": [
-            "Quan niệm của Hồ Chí Minh về đặc trưng cơ bản của chủ nghĩa xã hội",
-            "Chủ nghĩa xã hội có nền kinh tế phát triển cao, dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu",
-            "Chủ nghĩa xã hội thực hiện nền chuyên chính dân chủ nhân dân dưới sụ lãnh đạo của Đảng Cộng sản",
-            "Chủ nghĩa xã hội có trình độ phát triển cao về văn hóa và đạo đức"
+            "Công, nông, thương nghiệp hiện đại",
+            "Phát triển gắn với sự phát triển của công, nông nghiệp",
+            "Phát triển cao, dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu",
+            "Hiện đại gắn liền với sự phát triển của công nghiệp"
         ],
         "answer": 2
     },
@@ -2036,39 +2036,39 @@ const quizData = [
             "Dân tộc chúng ta trở nên một dân tộc hùng mạnh",
             "Dân tộc chúng ta trở nên một dân tộc anh hùng",
             "Dân tộc chúng ta trở nên một dân tộc văn minh",
-            "Người cho rằng, việc xây dựng một nền giáo dục của nước Việt Nam mới phải được coi là nhiệm vụ cấp bách, có ý nghĩa chiến lược, cơ bản và lâu dài. Nền giáo dục đó sẽ “làm cho dân tộc chúng ta trở nên một dân tộc dũng cảm, yêu nước, yêu lao động, một dân tộc xứng đáng với nước Việt Nam độc lập”"
-        ],
-        "answer": 2
-    },
-    {
-        "q": "Câu 205: Theo Hồ Chí Minh, tin dân đi liền với việc chống những bệnh gì Bệnh xa dân, khinh dân, sợ dân, tự kiêu tự mãn",
-        "options": [
-            "Tư túng, chia rẽ, kiêu ngạo",
-            "Tham ô, lãng phí, quan liêu",
-            "Đặc quyền, đặc lợi",
-            "Tin dân đi liền với việc chống các bệnh xa dân, khinh dân, sợ dân, tuyệt đối chớ tự kiêu tự mãn; phải khiêm tốn và gần gũi quần chúng, phải làm gương cho quần chúng; phải học tập chính trị, phải gắn liền tinh thần thi đưa với tinh thần yêu nước và tinh thần quốc tế"
-        ],
-        "answer": 0
-    },
-    {
-        "q": "Câu 206: Theo Hồ Chí Minh tiêu chí tiếp thu tinh hoa văn hóa nhân loại là Cái gì hiện đại thì ta làm theo",
-        "options": [
-            "Có cái gì mới chúng ta phải làm theo",
-            "Có cái gì khác biệt thì phải học",
-            "Có cái gì hay, cái gì tốt là ta học lấy, phải lấy văn hóa dân tộc làm gốc",
-            "Tiêu chí tiếp thu là, có cái gì hay, cái gì tốt là ta học lấy, phải lấy văn hóa dân tộc làm gốc, đó là điều kiện, cơ sở để tiếp thu văn hóa nhân loại"
+            "Dân tộc chúng ta trở nên một dân tộc dũng cảm, yêu nước, yêu lao động, một dân tộc xứng đáng với nước Việt Nam độc lập"
         ],
         "answer": 3
     },
     {
-        "q": "Câu 207: Chuẩn mực đạo đức cao đẹp nhất theo tư tưởng Hồ Chí Minh là Thương yêu con người, sống có nghĩa khí Thương yêu con người, sống có lí, có tinh Quý trọng con người, sống có nghĩa, có tinh D.  Thương yêu con người, sống có tinh nghĩa Chuẩn mực đạo đức cách mạng:",
+        "q": "Câu 205: Theo Hồ Chí Minh, tin dân đi liền với việc chống những bệnh gì ",
+        "options": [
+            "Bệnh xa dân, khinh dân, sợ dân, tự kiêu tự mãn",
+            "Tham ô, lãng phí, quan liêu",
+            "Đặc quyền, đặc lợi",
+            "Tư túng, chia rẽ, kiêu ngạo"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Câu 206: Theo Hồ Chí Minh tiêu chí tiếp thu tinh hoa văn hóa nhân loại là :",
+        "options": [
+            "Có cái gì mới chúng ta phải làm theo",
+            "Có cái gì khác biệt thì phải học",
+            "Có cái gì hay, cái gì tốt là ta học lấy, phải lấy văn hóa dân tộc làm gốc",
+            "Có cái gì mới chúng ta phải làm theo"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Câu 207: Chuẩn mực đạo đức cao đẹp nhất theo tư tưởng Hồ Chí Minh :",
         "options": [
             "Trung với nước, hiếu với dân",
             "Cần, kiệm, liêm, chính, chí công vô tư",
             "Yêu thương con người, sống có tinh nghĩa",
             "Tinh thần quốc tế trong sáng"
         ],
-        "answer": 3
+        "answer": 2
     },
     {
         "q": "Câu 208: Hồ Chí Minh cho rằng quá độ lên chủ nghĩa xã hội ở Việt Nam phải tiến hành",
@@ -2086,9 +2086,9 @@ const quizData = [
             "Lòng thương yêu con người sâu sắc",
             "Lòng tự hào dân tộc",
             "Lòng tự tôn dân tộc",
-            "N/A"
+            "Lòng yêu nước, lý tưởng, tinh cảm cách mạng, sự lạc quan, ý chí, quyết tâm và niềm tin vào thắng lợi cuối cùng của cách mạng"
         ],
-        "answer": 2
+        "answer": 3
     },
     {
         "q": "Câu 210: Theo Hồ Chí Minh, nội dung của tiếp thu tinh hoa văn hóa nhân loại là",
@@ -2106,9 +2106,9 @@ const quizData = [
             "Quốc tế II phân rã",
             "Đảng Cộng sản Pháp phân liệt",
             "Quốc tế III đấu tranh cho giai cấp tư sản",
-            "N/A"
+            "Quốc tế III quan tâm đến vấn đề thuộc địa"
         ],
-        "answer": 1
+        "answer": 3
     },
     {
         "q": "Câu 212: Theo Hồ Chí Minh, “kẻ địch nguy hiểm của chủ nghĩa xã hội” là",
@@ -2196,9 +2196,9 @@ const quizData = [
             "Thân thiện với tất cả các nước dân chủ trên thế giới dễ giữ gìn hòa bình",
             "Độc lập, tự chủ và mềm dẻo về sách lược với tất cả các nước",
             "Độc lập, làm bạn với tất cả mọi nước dân chủ và không gây thù oán với một ai",
-            "“Chính sách ngoại giao của Chính phủ thì chỉ có một điều tức là thân thiện với tất cả các nước dân chủ trên thế giới để giữ gìn hòa bình”"
+            "Mềm dẻo về sách lược để làm bạn với tất cả mọi nước dân chủ và không gây thù oán với một ai"
         ],
-        "answer": 3
+        "answer": 0
     },
     {
         "q": "Câu 221: Điền từ hoặc cụm từ đúng vào dấu [...]: Theo giáo trình tư tưởng Hồ Chí Minh, Điều 1 của Hiến pháp 1946 nêu rõ: “Nước Việt Nam là một nước dân chủ cộng hòa, tất cả [...] là của toàn thể nhân dân Việt Nam, không phân biệt nòi giống, gái trai, giàu nghèo, giai cấp, tôn giáo”.",
@@ -2223,10 +2223,10 @@ const quizData = [
     {
         "q": "Câu 223: Điền từ hoặc cụm từ đúng vào dấu [...]: Theo Hồ Chí Minh, “[...] là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc”. Độc lập, tự do Độc lập dân tộc Quyền dân chủ của nhân dân Quyền tự quyết dân tộc Quan điểm Hồ Chí Minh về độc lập dân tộc",
         "options": [
-            "Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc",
-            "Độc lập dân tộc phải gắn liền tự do, cơm no, áo ấm và hạnh phúc của nhân dân",
-            "Độc lập dân tộc phải là nên độc lập thực sự, hoàn toàn và triệt để",
-            "Độc lập dân tộc gắn liền với thống nhất và toàn vẹn lãnh thổ"
+            "Độc lập, tự do",
+            "Độc lập dân tộc",
+            "Quyền dân chủ của nhân dân",
+            "Quyền tự quyết dân tộc"
         ],
         "answer": 0
     },
@@ -2248,7 +2248,7 @@ const quizData = [
             "Cách mạng Nga là cách mạng triệt để",
             "Cách mạng Nga là đã giành thắng lợi"
         ],
-        "answer": 0
+        "answer": 1
     },
     {
         "q": "Câu 226: Theo Hồ Chí Minh, thanh niên phải xung phong hăng hái thực hiện khẩu hiệu",
@@ -2258,17 +2258,17 @@ const quizData = [
             "Đâu cần thanh niên có, đâu khó có thanh niên",
             "Đâu cần thanh niên có, đâu khó thanh niên xung phong"
         ],
-        "answer": 0
+        "answer": 2
     },
     {
-        "q": "Câu 227: Hồ Chí Minh đã tiếp thu các giá trị về quyền sống, quyền tự do, quyền mưu cầu hạnh phúc từ những tác phẩm nào Tuyên ngôn của nước Anh",
+        "q": "Câu 227: Hồ Chí Minh đã tiếp thu các giá trị về quyền sống, quyền tự do, quyền mưu cầu hạnh phúc từ những tác phẩm nào ",
         "options": [
             "Tuyên ngôn nhân quyền và dân quyền của nước Pháp, Tuyên ngôn độc lập của nước Mỹ",
             "Tuyên ngôn độc lập của nước Mỹ",
             "Tuyên ngôn nhân quyền và dân quyền của cách mạng Pháp",
-            "Người đã tiếp thu những giá trị về quyền sống, quyền tự do, quyền mưu cầu hạnh phúc của Tuyên ngôn độc lập của nước Mỹ (1776), các giá trị tự do, bình đẳng, bác ái trong Tuyên ngôn nhân quyền và dân quyền của Đại cách mạng Pháp (1791)"
+            "Tuyên ngôn của nước Anh"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "q": "Câu 228: Theo Hồ Chí Minh, Đảng Cộng sản mà chúng ta xây dựng phải",
@@ -2318,7 +2318,7 @@ const quizData = [
             "Tất cả phương án",
             "Bệnh quan liêu"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 233: Theo quan điểm của Hồ Chí Minh, tính chất của nền văn hóa mới là (Quan điểm về xây dựng nền văn hóa mới qua các thời kỳ-Trong kháng chiến chống thực dân Pháp)",
@@ -2338,7 +2338,7 @@ const quizData = [
             "Dân tộc, lịch sử và kinh tế",
             "Tư tưởng"
         ],
-        "answer": 0
+        "answer": 2
     },
     {
         "q": "Câu 235: Nét đặc sắc trong quan niệm của Hồ Chí Minh về con người Việt Nam là gì",
@@ -2381,14 +2381,14 @@ const quizData = [
         "answer": 1
     },
     {
-        "q": "Câu 239: Chọn đáp án sai theo tư tưởng Hồ Chí Minh về những nguyên tắc xây dựng Đảng cộng sản Việt Nam Tự phê bình và phê bình Tập trung dân chủ Đoàn kết thống nhất trong đảng Thiểu số phục tùng đa số Nguyên tắc xây dựng Đảng Tập trung dân chủ",
+        "q": "Câu 239: Chọn đáp án sai theo tư tưởng Hồ Chí Minh về những nguyên tắc xây dựng Đảng cộng sản Việt Nam ",
         "options": [
-            "Tập thể lãnh đạo, cá nhân phụ trách",
+            "Thiểu số phục tùng đa số",
             "Tự phê bình và phê bình",
             "Kỷ luật nghiêm minh, tự giác",
             "Đoàn kết thống nhất trong Đảng"
         ],
-        "answer": 3
+        "answer": 0
     },
     {
         "q": "Câu 240: Đọc và làm rõ nội dung sau: “Trong cuộc đấu tranh, vừa nghiên cứu lý luận Mác-Lênin, vừa làm công tác thực tế, dần dần tôi hiểu được rằng chỉ có chủ nghĩa xã hội, chủ nghĩa cộng sản mới giải phóng được các dân tộc bị áp bức và những người lao động trên thế giới”.",
@@ -2398,7 +2398,7 @@ const quizData = [
             "Hồ Chí Minh tim thấy tính ưu việt của chế độ xã hội mới là chủ nghĩa cộng sản",
             "Khẳng định, chủ nghĩa nhiều, học thuyết nhiều nhưng chỉ có học thuyết Mác-Lênin là chắc chắn nhất, khoa học nhất"
         ],
-        "answer": 1
+        "answer": 0
     },
     {
         "q": "Câu 241: Theo Hồ Chí Minh, cả dân tộc hay toàn dân chỉ trở thành lực lượng cách mạng to lớn, trở thành sức mạnh vô địch khi được",
@@ -2443,10 +2443,10 @@ const quizData = [
     {
         "q": "Câu 245: Điền từ hoặc cụm từ đúng vào dấu [...]: “Văn hóa [...] cho quốc dân đi”",
         "options": [
-            "Dẫn đường\tB.  Soi đường\tC.  Mở đường\tD.  Chỉ đường",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Dẫn đường",
+            "Soi đường",
+            "Mở đường",
+            "Chỉ đường"
         ],
         "answer": 1
     },
@@ -2478,7 +2478,7 @@ const quizData = [
             "Trong các quan hệ xã hội",
             "Trong ý thức của con người"
         ],
-        "answer": 3
+        "answer": 2
     },
     {
         "q": "Câu 249: Theo Chủ tịch Hồ Chí Minh giải pháp căn bản và có ý nghĩa lâu dài đề phòng, chống tiêu cực trong Nhà nước là",
@@ -2488,7 +2488,7 @@ const quizData = [
             "Tất cả các phương án",
             "Pháp luật của Nhà nước, kỷ luật của Đảng phải nghiêm minh"
         ],
-        "answer": 3
+        "answer": 0
     },
     {
         "q": "Câu 250: Điền từ hoặc cụm từ đúng vào dấu [...]: “Đoàn kết trong Mặt trận Việt Minh, nhân dân ta đã làm cách mạng Tháng Tám thành công, lập nên nước [...]”",
@@ -2498,7 +2498,7 @@ const quizData = [
             "Việt Nam Cộng hòa",
             "Cộng hòa Dân chủ Việt Nam"
         ],
-        "answer": 3
+        "answer": 1
     },
     {
         "q": "Câu 251: Theo Hồ Chí Minh, mối quan hệ giữa Đảng với nhân dân là mối quan hệ như thế nào Gắn bó mật thiết",
@@ -2508,7 +2508,7 @@ const quizData = [
             "Như cá với nước",
             "Có người cho rằng mối quan hệ giữa Đảng và nhân dân là mối quan hệ “máu thịt”, không thế tách rời"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "q": "Câu 252: Theo tư tưởng Hồ Chí Minh, người thực thi pháp luật đúng là phải",
@@ -2528,7 +2528,7 @@ const quizData = [
             "Giai cấp địa chủ phong kiến và nông dân",
             "Sĩ, nông, công, thương"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Câu 254: Theo Hồ Chí Minh, Chủ nghĩa Mác có ưu điểm là",
@@ -2568,7 +2568,7 @@ const quizData = [
             "Đường cách mệnh",
             "Chánh cương vắn tắt của Đảng, Sách lược vắn tắt"
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "q": "Câu 258: Nội dung nào không đúng với tư tưởng Hồ Chí Minh về thái độ, phương pháp tự phê bình và phê bình",
@@ -2588,7 +2588,7 @@ const quizData = [
             "Chiến lược quan trọng hàng đầu trong quá trình phát triển của đất nước",
             "Một trọng tâm, một bộ phận hợp thành của chiến lược phát triển kinh tế - xã hội"
         ],
-        "answer": 2
+        "answer": 3
     },
     {
         "q": "Câu 260: Chủ tịch Hồ Chí Minh khẳng định con người là mục tiêu của cách mạng trong những giai đoạn nào",
@@ -2608,7 +2608,7 @@ const quizData = [
             "Hiến pháp năm 1959 và 1982",
             "Hiến pháp năm 1946 và 1959"
         ],
-        "answer": 1
+        "answer": 3
     },
     {
         "q": "Câu 262: Luận điểm sau của Hồ Chí Minh nhằm nói về “Đoàn kết, đoàn kết, đại đoàn kết Thành công, thành công, đại thành công”",
@@ -2648,7 +2648,7 @@ const quizData = [
             "Thợ thuyền, dân cày và lao động trí óc",
             "Giỏi nhất, có học thức nhất"
         ],
-        "answer": 3
+        "answer": 2
     },
     {
         "q": "Câu 266: Trong thời kỳ xây dựng xã hội chủ nghĩa ở miền Bắc, theo Hồ Chí Minh nền văn hóa nước ta phải?",
@@ -2658,7 +2658,7 @@ const quizData = [
             "Dân chủ và tiến bộ",
             "Xã hội chủ nghĩa về nội dung và dân tộc về hình thức"
         ],
-        "answer": 3
+        "answer": 1
     },
     {
         "q": "Câu 267: Hồ Chí Minh đã phê phán những yếu tố duy tâm, lạc hậu, phản động nào của Nho giáo?",
@@ -2668,15 +2668,15 @@ const quizData = [
             "Cả 3 đáp án",
             "Coi thường phụ nữ"
         ],
-        "answer": 0
+        "answer": 2
     },
     {
         "q": "Câu 268: Nguyễn Ái Quốc dự Đại hội V của Quốc tế Cộng sản vào năm nào?",
         "options": [
-            "1924\tB.  1923\tC.  1925\tD.  1922",
-            "N/A",
-            "N/A",
-            "N/A"
+            "1924",
+            "1923",
+            "1925",
+            "1922"
         ],
         "answer": 0
     },
@@ -2703,12 +2703,12 @@ const quizData = [
     {
         "q": "Câu 271: Chủ nghĩa xã hội là công trình tập thể của […], do nhân dân tự xây dựng lấy, dưới sự lãnh đạo của Đảng.",
         "options": [
-            "Đảng viên\tB.  Nhân dân\tC.  Quần chúng\tD.  Công nông",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Đảng viên",
+            "Nhân dân",
+            "Quần chúng",
+            "Công nông"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "q": "Câu 272: Theo Hồ Chí Minh, nhân tố tạo nên sức hấp dẫn của chủ nghĩa xã hội là gì ?",
@@ -2718,7 +2718,7 @@ const quizData = [
             "Đạo đức",
             "Kinh tế"
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "q": "Câu 273: Khi xác định vị trí và xu hướng vận động của từng thành phần kinh tế trong thời kỳ quá độ, Hồ Chí Minh ưu tiên phát triển thành phần kinh tế nào?",
@@ -2733,30 +2733,30 @@ const quizData = [
     {
         "q": "Câu 274: […] là gốc của mọi công việc",
         "options": [
-            "Đạo đức\tB.  Cán bộ\tC.  Năng lực\tD.  Nhân dân",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Đạo đức",
+            "Cán bộ",
+            "Năng lực",
+            "Nhân dân"
         ],
         "answer": 1
     },
     {
         "q": "Câu 275: Một Đảng tiên phong cách mạng nếu chỉ có đạo đức thôi chưa đủ, mà còn phải là [...].",
         "options": [
-            "Yêu nước\tB.  Năng lực\tC.  Có tài\tD.  Văn minh",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Yêu nước",
+            "Năng lực",
+            "Có tài",
+            "Văn minh"
         ],
-        "answer": 1
+        "answer": 3
     },
     {
         "q": "Câu 276: Huấn luyện […] là công việc gốc của Đảng",
         "options": [
-            "Cán bộ\tB.  Đảng viên\tC.  Nhân sự\tD.  Quần chúng",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Cán bộ",
+            "Đảng viên",
+            "Nhân sự",
+            "Quần chúng"
         ],
         "answer": 0
     },
@@ -2768,37 +2768,37 @@ const quizData = [
             "Giữa các Đảng",
             "Giữa các Đảng Cộng sản"
         ],
-        "answer": 3
+        "answer": 2
     },
     {
         "q": "Câu 278: Mọi hoạt động của văn hóa phải trở về với […] của quần chúng, phản ánh được tư tưởng và khát vọng của quần chúng.",
         "options": [
-            "Thực tại\tB.  Hiện thực\tC.  Cuộc sống\tD.  Thực trạng",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Thực tại",
+            "Hiện thực",
+            "Cuộc sống",
+            "Thực trạng"
         ],
-        "answer": 2
+        "answer": 0
     },
     {
         "q": "Câu 279: Bộ phận nào không thuộc khối đại đoàn kết dân tộc: Đoàn kết các giai cấp, tầng lớp và những người Việt Nam định cư ở nước ngoài Đoàn kết tôn giáo Đoàn kết khối vô sản Đoàn kết trong Đảng Lực lượng đại đoàn kết dân tộc Đoàn kết trong Đảng",
         "options": [
-            "Đoàn kết giai cấp",
+            "Đoàn kết khối vô sản",
             "Đoàn kết tôn giáo",
             "Đoàn kết các dân tộc",
             "Đoàn kết các giai cấp, tầng lớp và những người Việt Nam định cư ở nước ngoài"
         ],
-        "answer": 3
+        "answer": 0
     },
     {
-        "q": "Câu 280: Đâu không phải là điều kiện để thực hiện đại đoàn kết dân tộc? Phải có niềm tin vào nhân dân Phải biết yêu thương lẫn nhau Phải kế thừa truyền thống yêu nước - nhân nghĩa - đoàn kết của dân tộc Phải có lòng khoan dung, độ lượng với con người",
+        "q": "Câu 280: Đâu không phải là điều kiện để thực hiện đại đoàn kết dân tộc?",
         "options": [
-            "Điều kiện để thực hiện đại đoàn kết dân tộc",
+            "Phải có niềm tin vào nhân dân",
+            "Phải biết yêu thương lẫn nhau",
             "Phải kế thừa truyền thống yêu nước - nhân nghĩa - đoàn kết của dân tộc",
-            "Phải có lòng khoan dung, độ lượng với con người",
-            "Phải có niềm tin vào nhân dân"
+            "Phải có lòng khoan dung, độ lượng với con người"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "q": "Câu 281: Trong các nguyên tắc xây dựng Đảng, nguyên tắc nào là nguyên tắc sinh hoạt Đảng?",
@@ -2818,35 +2818,35 @@ const quizData = [
             "Liên minh công nông và các tầng lớp lao động khác",
             "Liên minh công nông và các lực lượng yêu nước khác"
         ],
-        "answer": 0
+        "answer": 2
     },
     {
         "q": "Câu 283: Hồ Chí Minh lấy bút danh Nguyễn Ái Quốc từ năm nào?",
         "options": [
-            "1918\tB.  1919\tC.  1920\tD.  1921",
-            "N/A",
-            "N/A",
-            "N/A"
+            "1918",
+            "1919",
+            "1920",
+            "1921"
         ],
         "answer": 1
     },
     {
         "q": "Câu 284: Hồ Chí Minh lấy bút danh là Nguyễn Tất Thành vào thời gian nào?",
         "options": [
-            "1901\tB.  1902\tC.  1903\tD.  1904",
-            "N/A",
-            "N/A",
-            "N/A"
+            "1901",
+            "1902",
+            "1903",
+            "1904"
         ],
         "answer": 0
     },
     {
-        "q": "Câu 285: Điều kiện nào sau đây không phải là điều kiện đảm bảo cho độc lập dân tộc gắn liền với chủ nghĩa xã hội là? Phải bảo đảm vai trò lãnh đạo tuyệt đối của Đảng Cộng sản trong suốt tiến trình cách mạng Phải củng cố và tăng cường khối đại đoàn kết dân tộc mà nền tảng là khối liên minh công - nông - trí Phải đoàn kết, gắn bó chặt chẽ với cách mạng thế giới Phải giữ vững niềm tin vào chủ nghĩa Mác - Lênin Điều kiện đảm bảo cho độc lập dan tộc gắn liền với chủ nghĩa xã hội",
+        "q": "Câu 285: Điều kiện nào sau đây không phải là điều kiện đảm bảo cho độc lập dân tộc gắn liền với chủ nghĩa xã hội là? ",
         "options": [
             "Phải bảo đảm vai trò lãnh đạo tuyệt đối của Đảng Cộng sản trong suốt tiến trình cách mạng",
-            "Phải củng cố và tăng cường khối đại đoàn kết dân tộc mà nền tảng là khối liên minh công - nông",
-            "- trí",
-            "Phải đoàn kết, gắn bó chặt chẽ với cách mạng thế giới"
+            "Phải củng cố và tăng cường khối đại đoàn kết dân tộc mà nền tảng là khối liên minh công - nông- trí",
+            "Phải đoàn kết, gắn bó chặt chẽ với cách mạng thế giới",
+            "Phải giữ vững niềm tin vào chủ nghĩa Mác - Lênin"
         ],
         "answer": 3
     },
@@ -2863,40 +2863,40 @@ const quizData = [
     {
         "q": "Câu 287: Giai đoạn quan trọng nhất trong hình thành tư tưởng Hồ Chí Minh là",
         "options": [
-            "Trước 1911\tB.  1911-1920\tC.  1920-1930\tD.  1930-1941",
-            "N/A",
-            "N/A",
-            "N/A"
+            "Trước 1911",
+            "1920-1930",
+            "1911-1920",
+            "1930-1941"
         ],
         "answer": 2
     },
     {
         "q": "Câu 288: Tác phẩm “Sửa đổi lối làm việc”, bác Hồ viết dưới bút danh nào?",
         "options": [
-            "T.L\tB.  Χ.Υ.Ζ\tC.  Trần Lực\tD.  Đ.X",
-            "T.L: Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân",
-            "X.Y.Z: Sửa đổi lối làm việc",
-            "Đ.X: Thưởng thức chính trị"
+            "T.L",
+            "Χ.Υ.Ζ",
+            "Trần Lực",
+            "Đ.X"
         ],
         "answer": 1
     },
     {
         "q": "Câu 289: Tác phẩm “Xây dựng những con người chủ nghĩa xã hội” được Bác viết năm nào?",
         "options": [
-            "1960\tB.  1965\tC.  1961\tD.  1969",
-            "N/A",
-            "N/A",
-            "N/A"
+            "1960",
+            "1965",
+            "1961",
+            "1969"
         ],
         "answer": 2
     },
     {
         "q": "Câu 290: Tác phẩm “Thưởng thức chính trị” bác viết dưới bút danh nào?",
         "options": [
-            "T.L\tB.  Χ.Υ.Ζ\tC.  Trần Lực\tD.  Đ.X",
-            "N/A",
-            "N/A",
-            "N/A"
+            "T.L",
+            "Χ.Υ.Ζ",
+            "Trần Lực",
+            "Đ.X"
         ],
         "answer": 3
     },
@@ -2918,7 +2918,7 @@ const quizData = [
             "Là tư tưởng của một giai cấp, một dân tộc",
             "Là tất cả những vấn đề trên"
         ],
-        "answer": 3
+        "answer": 2
     },
     {
         "q": "Câu 293: Văn kiện Đại hội IX quan niệm: “Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của [...] là kết quả của sự vận dụng và phát triển sáng tạo [..] Vào điều kiện cụ thể của nước ta, đồng thời là kết tinh tinh hoa dân tộc và trí tuệ thời đại nhằm giải phóng dân tộc, giải phóng giai cấp, giải phóng con người”",
@@ -2933,10 +2933,10 @@ const quizData = [
     {
         "q": "Câu 294: Khái niệm tư tưởng Hồ Chí Minh được Đảng ta chính thức sử dụng vào thời gian nào?",
         "options": [
-            "1930\tB.  1945\tC.  1969\tD.  1991",
-            "N/A",
-            "N/A",
-            "N/A"
+            "1930",
+            "1945",
+            "1969",
+            "1991"
         ],
         "answer": 3
     },
@@ -2973,10 +2973,10 @@ const quizData = [
     {
         "q": "Câu 298: Bộ môn Tư Tưởng Hồ Chí Minh hiện nay có mấy nhiệm vụ khi nghiên cứu Tư tưởng Hồ Chí Minh:",
         "options": [
-            "4 nhiệm vụ\tB.  5 nhiệm vụ\tC.  6 nhiệm vụ\tD.  7 nhiệm vụ",
-            "N/A",
-            "N/A",
-            "N/A"
+            "4 nhiệm vụ",
+            "5 nhiệm vụ",
+            "6 nhiệm vụ",
+            "7 nhiệm vụ"
         ],
         "answer": 2
     },
