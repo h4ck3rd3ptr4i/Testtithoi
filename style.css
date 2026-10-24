@@ -1,0 +1,6 @@
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+.option-label { transition: all 0.2s ease-in-out; }
+.option-label:hover:not(.disabled) { background-color: #ebf8ff; border-color: #90cdf4; }
+.correct { background-color: #c6f6d5 !important; border-color: #38a169 !important; color: #22543d !important; }
+.wrong { background-color: #fed7d7 !important; border-color: #e53e3e !important; color: #742a2a !important; }
+.disabled { opacity: 0.8; cursor: not-allowed; }
